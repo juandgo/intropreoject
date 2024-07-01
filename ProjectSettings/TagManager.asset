@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - BlocksLight
+  - Rat
+  - Moss
+  - ButtonTrigger
+  - GameUI
+  - MinecartIgnore
+  - McIgnore
+  - WorldMapCollider
+  - AnimeSpeedLines
+  - LeaveTriggerEnabled
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Item
+  - Rat
+  - NPC
+  - LaserRaycast
+  - Trigger
+  - IgnoreAnchorRaycast
+  - Minecart
+  - ButtonTrigger
+  - CamTexture
+  - RenderTextureOnly
+  - JungleSigns
+  - DEPRECATED_JunglePaths
+  - LavaParticles
+  - ItemRT
+  - OnlyCollideWithPlayer
+  - UIParticle
+  - NoDropItems
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3256626599
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3988747165
+    locked: 0
+  - name: Walls
+    uniqueID: 3322194137
+    locked: 0
+  - name: DecorativeTiles
+    uniqueID: 2654053679
+    locked: 0
+  - name: Wires&Rails
+    uniqueID: 4104053181
+    locked: 0
+  - name: OnFloor
+    uniqueID: 3521479827
+    locked: 0
+  - name: Ceiling
+    uniqueID: 2735967853
+    locked: 0
+  - name: Entity
+    uniqueID: 529684183
+    locked: 0
+  - name: DottedWires
+    uniqueID: 3274293505
+    locked: 0
+  - name: UI_Particle
+    uniqueID: 414317947
+    locked: 0
+  - name: ScreenEffects
+    uniqueID: 2400039177
+    locked: 0
